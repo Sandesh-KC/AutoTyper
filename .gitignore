@@ -1,0 +1,19 @@
+# Ignore build folders
+/dist/
+/runtime/
+
+# Ignore OS files
+Thumbs.db
+.DS_Store
+
+# Ignore IDE files
+.vscode/
+*.iml
+.idea/
+
+# Ignore logs or temporary files
+*.log
+*.tmp
+
+# Optional: ignore the JAR if you want to rebuild it
+# AutoTyper.jar
