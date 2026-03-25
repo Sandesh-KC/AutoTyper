@@ -1,0 +1,1 @@
+**This is a simple autotyper for my personal use.**
